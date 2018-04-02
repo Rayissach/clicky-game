@@ -1,0 +1,23 @@
+ul {
+  display: inline-block;
+}
+li {
+  list-style: none;
+  display: inline-block;
+}
+.brand {
+  width: 33.3%;
+  padding: 26px 0;
+  text-align: center;
+}
+
+.guess{
+  width: 33.3%;
+  padding: 26px 0;
+  text-align: center;
+}
+.scores {
+  width: 33.3%;
+  padding: 26px 0;
+  text-align: center;
+}
